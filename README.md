@@ -50,13 +50,13 @@ Estou constantemente buscando aprender e melhorar minhas habilidades, explorando
 
 <div align="center">
 
-🌱 Sempre aprendendo e experimentando novas ferramentas através de projetos.
+ Sempre aprendendo e experimentando novas ferramentas através de projetos.
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <div align="center">
 
@@ -93,25 +93,18 @@ Projeto acadêmico desenvolvido em equipe para uma aplicação de e-commerce.
 ## 🌱 Atualmente aprendendo
 
 ```text
-☕ Java
-🟣 Kotlin
-🟨 JavaScript
-🐍 Python
+ Java
+ Kotlin
+ JavaScript
+ Python
 
-💻 Desenvolvimento de Software
-🗄️ Banco de Dados
-🌐 Desenvolvimento Web e Mobile
+ Desenvolvimento de Software
+ Banco de Dados
+ Desenvolvimento Web e Mobile
 ```
 
 ---
 
-## 📊 GitHub
-
-<div 
-
-</div>
-
----
 
 ## 🌷 Vamos nos conectar?
 
