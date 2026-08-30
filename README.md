@@ -9,7 +9,7 @@
 ###  Estudante de Desenvolvimento de Software Multiplataforma
 
 <p>
-💻 Tecnologia &nbsp; • &nbsp; 🌱 Aprendizado contínuo &nbsp; • &nbsp; ☕ Café
+💻 Tecnologia &nbsp; • &nbsp; 🌱 Aprendizado contínuo &nbsp; • &nbsp; 
 </p>
 
 </div>
