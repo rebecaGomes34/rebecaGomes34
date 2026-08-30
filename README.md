@@ -58,6 +58,33 @@ Estou constantemente buscando aprender e melhorar minhas habilidades, explorando
 
 ## 🚀 Projetos em destaque
 
+<div align="center">
+
+### Hasty Barber
+
+Projeto acadêmico desenvolvido em equipe para uma solução de gerenciamento de barbearia.
+
+💻 **Minha principal contribuição:** desenvolvimento do Front-end
+
+<a href="https://github.com/Portela03/HASTY-BARBER">
+  <img src="https://img.shields.io/badge/Ver%20projeto-A87C6F?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+### La Casa de Sacola
+
+Projeto acadêmico desenvolvido em equipe para uma aplicação de e-commerce.
+
+💻 **Minha contribuição:** participação em diferentes etapas do desenvolvimento (Front-end, back-end, banco de dados)
+
+<a href="https://github.com/Mateus-SR/La-Casa-De-Sacola">
+  <img src="https://img.shields.io/badge/Ver%20projeto-C89F9C?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+
 
 > 🌷 Em breve, mais projetos por aqui!
 
